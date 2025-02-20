@@ -9,5 +9,3 @@
 ---
 #### How to edit global confir 
 * git config --global -e
-
-
